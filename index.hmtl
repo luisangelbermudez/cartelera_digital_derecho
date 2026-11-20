@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estudio de caso laboral | Agroindustria La Esperanza S.A.S.</title>
+<style>
+:root{--navy:#10243a;--blue:#176b87;--teal:#1c9a83;--gold:#f2b544;--red:#c94c4c;--ink:#243447;--muted:#617286;--paper:#f3f7fa;--white:#fff}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);font-family:Arial,Helvetica,sans-serif;color:var(--ink);line-height:1.6}
+.hero{background:linear-gradient(130deg,#10243a,#176b87 65%,#1c9a83);color:white;padding:58px 22px 48px}
+.wrap{max-width:1080px;margin:auto}.eyebrow{text-transform:uppercase;letter-spacing:2px;font-size:.78rem;font-weight:bold;color:#bdebe1}
+h1{font-size:clamp(2rem,5vw,3.35rem);line-height:1.1;margin:14px 0}.hero p{max-width:760px;font-size:1.08rem;color:#e6f2f5}
+.meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}.pill{border:1px solid #ffffff55;background:#ffffff18;border-radius:30px;padding:7px 13px;font-size:.88rem}
+nav{background:#fff;box-shadow:0 3px 14px #142b4010;position:sticky;top:0;z-index:5}
+nav .wrap{display:flex;gap:8px;overflow:auto;padding:10px 18px}nav a{white-space:nowrap;text-decoration:none;color:var(--navy);font-size:.9rem;font-weight:bold;padding:8px 12px;border-radius:20px}nav a:hover{background:#e7f3f4}
+main{padding:34px 20px 60px}.section{margin:0 auto 30px;max-width:1080px}.section h2{font-size:1.65rem;color:var(--navy);margin:0 0 8px}.lead{color:var(--muted);margin-top:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:15px}
+.card{background:var(--white);padding:21px;border-radius:17px;box-shadow:0 7px 24px #17324a0c;border:1px solid #e6edf2}
+.metric{font-size:1.75rem;font-weight:800;color:var(--blue);line-height:1.2;margin:8px 0}.metric.red{color:var(--red)}.small{font-size:.88rem;color:var(--muted)}
+.tag{display:inline-block;font-size:.75rem;font-weight:bold;text-transform:uppercase;letter-spacing:.7px;padding:4px 9px;border-radius:20px;background:#e7f4f2;color:#147765}
+.alert{border-left:5px solid var(--gold);background:#fff8e8;padding:16px 18px;border-radius:9px;margin:16px 0}
+.danger{border-left-color:var(--red);background:#fff1f0}
+table{width:100%;border-collapse:collapse;background:white;border-radius:14px;overflow:hidden;box-shadow:0 7px 24px #17324a0c}
+th,td{text-align:left;padding:13px 14px;border-bottom:1px solid #e8eef2;vertical-align:top}th{background:var(--navy);color:white;font-size:.88rem}td:last-child{font-weight:700}tr:last-child td{border-bottom:0}
+.total{background:#e6f5f1;font-weight:800;color:#116b59}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:13px}.step{background:white;border-radius:14px;padding:18px;border-top:4px solid var(--teal)}
+.step b{color:var(--navy)}.formula{background:#f0f5f8;border-radius:8px;padding:10px 12px;font-family:Arial,sans-serif;font-weight:bold;color:#174b63}
+footer{background:var(--navy);color:#dce8ef;padding:30px 20px;text-align:center}footer a{color:#9fe2d4}
+.refs li{margin:9px 0}.refs a{color:#176b87;overflow-wrap:anywhere}
+@media(max-width:650px){.hero{padding:42px 20px}main{padding:25px 13px 45px}th,td{padding:10px 8px;font-size:.86rem}.metric{font-size:1.5rem}}
+@media print{nav{display:none}.hero{padding:25px}.card,table{box-shadow:none}.section{break-inside:avoid}body{background:white}}
+</style>
+</head>
+<body>
+<header class="hero">
+ <div class="wrap">
+  <div class="eyebrow">SENA · Evidencia GA11-210201501-AA3-EV02</div>
+  <h1>Derechos laborales vulnerados</h1>
+  <p>Estudio de caso: Juan Pérez, auxiliar de bodega de Agroindustria La Esperanza S.A.S. Una revisión de los incumplimientos laborales y de los valores que se pueden establecer con la información suministrada.</p>
+  <div class="meta"><span class="pill">Año analizado: 2025</span><span class="pill">Vinculación: 12 meses</span><span class="pill">Contrato verbal indefinido</span></div>
+ </div>
+</header>
+<nav><div class="wrap">
+<a href="#caso">El caso</a><a href="#incumplimientos">Incumplimientos</a><a href="#cuantias">Cuantías</a><a href="#pendientes">Valores por determinar</a><a href="#conclusiones">Conclusiones</a><a href="#fuentes">Fuentes</a>
+</div></nav>
+<main>
+<section class="section" id="caso">
+ <h2>¿Qué ocurrió?</h2><p class="lead">Juan Pérez trabajó durante todo 2025 organizando, cargando y despachando mercancía. Recibía $1.200.000 mensuales, laboraba de lunes a sábado de 7:00 a. m. a 7:00 p. m. y tres domingos al mes. La empresa omitió pagos y afiliaciones obligatorias.</p>
+ <div class="grid">
+  <div class="card"><span class="tag">Salario recibido</span><div class="metric red">$1.200.000</div><div class="small">Mensuales, por debajo del mínimo legal de 2025.</div></div>
+  <div class="card"><span class="tag">Mínimo legal 2025</span><div class="metric">$1.423.500</div><div class="small">Sin incluir auxilio de transporte.</div></div>
+  <div class="card"><span class="tag">Auxilio de transporte</span><div class="metric">$200.000</div><div class="small">Mensuales para quien cumple los requisitos legales.</div></div>
+  <div class="card"><span class="tag">Jornada descrita</span><div class="metric red">72 h/semana</div><div class="small">Si las 12 horas diarias fueron efectivamente laboradas, sin descontar pausas.</div></div>
+ </div>
+ <div class="alert"><b>Importante:</b> el contrato verbal a término indefinido es válido. La existencia de la relación laboral se determina por la prestación personal del servicio, la subordinación y la remuneración; no se elimina por falta de documento escrito.</div>
+</section>
+<section class="section" id="incumplimientos">
+ <h2>Derechos que no se respetaron</h2><p class="lead">Estos son los principales incumplimientos identificados en el relato.</p>
+ <div class="steps">
+  <div class="step"><b>1. Salario mínimo</b><p>Se pagaron $1.200.000, aunque el mínimo mensual de 2025 era $1.423.500. Hay una diferencia mensual de $223.500.</p></div>
+  <div class="step"><b>2. Auxilio de transporte</b><p>No se reconocieron los $200.000 mensuales, pese a que el salario estaba por debajo de dos salarios mínimos y se cumplen los demás requisitos.</p></div>
+  <div class="step"><b>3. Jornada y horas extra</b><p>La jornada descrita supera ampliamente la máxima legal. Las horas suplementarias deben pagarse con los recargos correspondientes y respetar los límites legales.</p></div>
+  <div class="step"><b>4. Trabajo dominical</b><p>Laboró tres domingos al mes. Al ser trabajo habitual en día de descanso obligatorio, corresponde el pago legal y el descanso compensatorio, según las condiciones aplicables.</p></div>
+  <div class="step"><b>5. Prestaciones sociales</b><p>No recibió prima de servicios, cesantías ni intereses a las cesantías.</p></div>
+  <div class="step"><b>6. Dotación</b><p>No recibió calzado y vestido de labor. La dotación se entrega en especie, no se reemplaza automáticamente por dinero durante el contrato.</p></div>
+  <div class="step"><b>7. Seguridad social</b><p>No fue afiliado durante los primeros seis meses a salud, pensión y riesgos laborales. El empleador debía afiliar y cotizar desde el inicio.</p></div>
+  <div class="step"><b>8. Vacaciones</b><p>Al completar un año se causan 15 días hábiles de vacaciones remuneradas. El caso no informa si las disfrutó; debe verificarse y, si terminó el contrato sin disfrutarlas, liquidarlas.</p></div>
+ </div>
+</section>
+<section class="section" id="cuantias">
+ <h2>Cuantías calculables con los datos disponibles</h2>
+ <p class="lead">Estimación sobre 12 meses completos de 2025, usando como base el salario mínimo legal cuando corresponde. Los valores son pesos colombianos.</p>
+ <table>
+  <thead><tr><th>Concepto</th><th>Operación</th><th>Valor estimado</th></tr></thead>
+  <tbody>
+   <tr><td>Diferencia de salario mínimo</td><td>($1.423.500 − $1.200.000) × 12</td><td>$2.682.000</td></tr>
+   <tr><td>Auxilio de transporte</td><td>$200.000 × 12</td><td>$2.400.000</td></tr>
+   <tr><td>Prima de servicios</td><td>($1.423.500 + $200.000) × 360 / 360</td><td>$1.623.500</td></tr>
+   <tr><td>Cesantías</td><td>($1.423.500 + $200.000) × 360 / 360</td><td>$1.623.500</td></tr>
+   <tr><td>Intereses a las cesantías</td><td>$1.623.500 × 12% × 360 / 360</td><td>$194.820</td></tr>
+   <tr><td>Vacaciones causadas (si no las disfrutó ni pagó al terminar)</td><td>$1.423.500 × 15 / 30</td><td>$711.750</td></tr>
+   <tr class="total"><td colspan="2">Subtotal estimado de conceptos cuantificables</td><td>$9.235.570</td></tr>
+  </tbody>
+ </table>
+ <div class="alert"><b>Cómo leer este subtotal:</b> incluye la diferencia de salario, auxilio, prima, cesantías, intereses y una provisión de vacaciones condicionada a que no hayan sido disfrutadas ni pagadas. No incluye horas extras, dominicales, aportes omitidos a seguridad social, dotación, sanciones, indemnizaciones ni posibles intereses moratorios. No es una liquidación definitiva ni una cifra judicial.</div>
+</section>
+<section class="section" id="pendientes">
+ <h2>Conceptos que requieren información adicional</h2>
+ <table>
+  <thead><tr><th>Concepto</th><th>Qué falta para liquidarlo correctamente</th><th>Tratamiento</th></tr></thead>
+  <tbody>
+   <tr><td>Horas extras diurnas/nocturnas</td><td>Confirmar si el horario incluye tiempo de almuerzo o pausas no laboradas, y precisar días efectivamente trabajados y distribución diaria.</td><td>Se liquidan con el valor hora de cada periodo y el recargo legal. No se puede asumir que todas las horas excedentes sean legalmente autorizables.</td></tr>
+   <tr><td>Dominicales</td><td>Horas exactas trabajadas cada domingo, fechas y si se concedió descanso compensatorio.</td><td>En 2025 el recargo fue 75% hasta el 30 de junio y 80% desde el 1 de julio. Tres domingos al mes configuran habitualidad.</td></tr>
+   <tr><td>Seguridad social (6 meses)</td><td>Clase de riesgo ARL, novedades, salario base, administradoras y posible exoneración legal del empleador en salud.</td><td>Se deben revisar aportes a salud, pensión y riesgos laborales desde el inicio. ARL la paga el empleador.</td></tr>
+   <tr><td>Dotación</td><td>Verificar fechas de entrega, elementos requeridos y si el contrato sigue vigente o terminó.</td><td>Entrega en especie de calzado y vestido de labor cuando se cumplen los requisitos; no asignar un valor en efectivo sin soporte.</td></tr>
+  </tbody>
+ </table>
+ <div class="alert danger"><b>Jornada excesiva:</b> de enero al 14 de julio de 2025 la jornada máxima semanal era de 46 horas; desde el 15 de julio pasó a 44 horas. El horario descrito equivale a 72 horas semanales si las 12 horas son efectivas. Además, la ley limita las horas extras a 2 diarias y 12 semanales: el empleador no puede justificar una jornada que exceda esos topes simplemente pagándola.</div>
+ <p class="small">Para liquidar horas extras se requiere separar los periodos: del 1 de enero al 14 de julio, divisor mensual de 230 horas; del 15 de julio al 31 de diciembre, divisor de 220 horas. Durante la mayor parte de 2025, el trabajo diurno se extendía hasta las 9:00 p. m.; el cambio de la Ley 2466 que fija el inicio del periodo nocturno a las 7:00 p. m. entra a regir seis meses después de su sanción. En el horario descrito, que termina a las 7:00 p. m., no se identifican horas posteriores a ese límite.</p>
+</section>
+<section class="section" id="conclusiones">
+ <h2>Conclusiones del grupo</h2>
+ <div class="card">
+  <p>El caso evidencia una vulneración de derechos laborales básicos. Aunque Juan Pérez tenía un contrato verbal válido, la empresa debía reconocerle como mínimo el salario legal, el auxilio de transporte cuando procediera, las prestaciones sociales, los descansos y recargos correspondientes, la dotación y la afiliación al sistema de seguridad social.</p>
+  <p>El incumplimiento no solo afecta los ingresos del trabajador, sino también su salud, protección frente a accidentes, ahorro pensional y bienestar familiar. La empresa debe revisar y corregir los pagos y afiliaciones pendientes, con una liquidación detallada que tenga en cuenta las fechas y horas realmente trabajadas.</p>
+  <p><b>Como grupo concluimos</b> que conocer los derechos laborales permite prevenir abusos y promover relaciones de trabajo dignas, legales y respetuosas.</p>
+ </div>
+</section>
+<section class="section refs" id="fuentes">
+ <h2>Fuentes de consulta</h2>
+ <ol>
+  <li><a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=257156" target="_blank" rel="noopener">Decreto 1572 de 2024</a> – salario mínimo legal mensual vigente para 2025.</li>
+  <li><a href="https://www1.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=256836" target="_blank" rel="noopener">Decreto 1573 de 2024</a> – auxilio de transporte de 2025.</li>
+  <li><a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=166506" target="_blank" rel="noopener">Ley 2101 de 2021</a> – reducción gradual de la jornada laboral.</li>
+  <li><a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260676" target="_blank" rel="noopener">Ley 2466 de 2025</a> – reforma laboral, recargos y disposiciones sobre jornada.</li>
+  <li><a href="https://www.cancilleria.gov.co/normograma/compilacion/docs/codigo_sustantivo_trabajo.htm" target="_blank" rel="noopener">Código Sustantivo del Trabajo</a> – contrato, salario, prestaciones, vacaciones y descanso remunerado.</li>
+  <li><a href="https://www.vue.gov.co/tramites-y-consultas/orientacion-empleadores-liquidacion-aportes-al-sps" target="_blank" rel="noopener">Ventanilla Única Empresarial</a> – orientación sobre aportes al Sistema de Protección Social.</li>
+  <li><a href="https://normativa.colpensiones.gov.co/colpens/compilacion/docs/circular_mintra_0101_2025.htm" target="_blank" rel="noopener">Circular 0101 de 2025 del Ministerio del Trabajo</a> – lineamientos sobre jornada, horas extras y recargos.</li>
+ </ol>
+ <p class="small">Material académico elaborado para la evidencia GA11-210201501-AA3-EV02. Los cálculos son orientativos y deben ajustarse con los soportes de nómina, horarios y novedades reales.</p>
+</section>
+</main>
+<footer><div class="wrap"><b>Formación SENA · ADSO · Ficha 3186635</b><br>Cartelera digital – Estudio de caso laboral · 2025</div></footer>
+</body>
+</html>
